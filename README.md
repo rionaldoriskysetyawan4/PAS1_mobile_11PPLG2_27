@@ -1,6 +1,7 @@
 # pas1_mobile_11pplg2_27
 
 Alhamdulilah selesai, gk sia sia begadang semaleman ☕ 🐂
+#Ini UI Tablet ya... kalau di android agak eror!.. 😁
 
 ## Getting Started
 

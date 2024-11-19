@@ -1,6 +1,6 @@
 # pas1_mobile_11pplg2_27
 
-A new Flutter project.
+Alhamdulilah selesai, gk sia sia begadang semaleman ☕ 🐂
 
 ## Getting Started
 
